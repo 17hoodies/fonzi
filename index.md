@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [Find me online here!](https://guns.lol/fonzifanz)
+# [<ins>Find me online here!</ins>](https://guns.lol/fonzifanz)
 
 ## About Me!  
 * Name/Nickname: Alonzo (fonzi)
