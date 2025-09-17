@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
+# fonzi  
+## [<ins>Find me online here!</ins>](https://guns.lol/fonzifanz)  
 
-# [<ins>Find me online here!</ins>](https://guns.lol/fonzifanz)
-
-## About Me!  
+### About Me!  
 * Name/Nickname: Alonzo (fonzi)
 * Pronouns: He/Him
 * Birthdate: January 3, 2006
