@@ -3,7 +3,7 @@ layout: default
 ---
 Written in December 10, 2024  
 
-# Social Anxiety :purple_heart:
+# Social Anxiety &#128156;
 I have had social anxiety my entire life. I mean as a kid, it was like I was always called shy; and now I am an adult, you are expected to just "grow out of it."
 
 Granted I found out I was autistic later in life so that plays a huge part of it, but I know autistic people that do not get socially anxious. I think the big reason for me being socially anxious all the time is from me being bullied as a child for being autistic and not fitting in socially. Because the anxiety and fear come from judgement from others and my fear of judgement is the fear that the bullying will happen again. Even though it is not logical to think this way I still do. That is why generic advice usually does not work. What I needed was someone who will support me and slowly gain confidence socially. 
