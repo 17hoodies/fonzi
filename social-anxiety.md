@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Social Anxiety
+description: December 10, 2024
 ---
 Written in December 10, 2024  
 
