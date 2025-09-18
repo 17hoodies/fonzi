@@ -13,6 +13,6 @@ Remember people: Progress is not linear. Do not be disheartened if you are tryin
 But I believe in you, and so in myself.
 So keep going and make the world proud. 
 
-![Neuro Angel](/assets/img/social-anxiety-blog-image.jpg)  
+![Neuro Angel](assets/img/social-anxiety-blog-image.jpg)  
 
 [Go back to website](./)
