@@ -16,4 +16,5 @@ So keep going and make the world proud.
 
 ![Neuro Angel](https://images.guns.lol/tXaHv.jpg)  
 
-[Go back to website](./)
+[Go back to index](./blog-index.md)
+[Or the website](https://17hoodies.github.io/fonzi/index.html)
