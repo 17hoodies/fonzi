@@ -2,7 +2,7 @@
 layout: default
 ---
 # fonzi  
-### [<ins>Read my latest blog post!</ins>](./social-anxiety.md)  
+### [<ins>Read my blog posts here!</ins>](./blog-index.md)  
 ## [<ins>Find me online here!</ins>](https://guns.lol/fonzifanz)  
 
 ### About Me!  
