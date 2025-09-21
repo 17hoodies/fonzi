@@ -11,5 +11,5 @@ It could be me living a private life or whatever, but when people ask me about i
 
 ![Picture Name](https://images.guns.lol/nrj8K.jpg)
 
-[Go back to index](./blog-index.md)
+[Go back to index](./blog-index.md)  
 [Or the website](https://17hoodies.github.io/fonzi/index.html)
