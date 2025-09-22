@@ -1,8 +1,10 @@
 ---
 layout: default
+title: fonzi
 ---
 # fonzi  
 ### [<ins>Read my blog posts here!</ins>](/blog/blog-index.md)  
+
 ## [<ins>Find me online here!</ins>](https://guns.lol/fonzifanz)  
 
 ### About Me!  
@@ -38,20 +40,21 @@ I also hope to find a supportive community where I can learn and grow both perso
 ---
 
 **My Favorites:**  
-* My favorite video game/series is "Kingdom Hearts" (especially III) because of its unique blend of Disney and Final Fantasy characters and worlds.
-* My favorite anime is "Plastic Memories" because of its emotional depth and exploration of human relationships.
-* My favorite music genre is Regional Mexican, especially Banda and Norteño, because of its rich cultural roots and storytelling.
-* My favorite book is "The Alchemist" by Paulo Coelho, as it inspires me to follow my dreams and listen to my heart.
-* My favorite quote is: "Simply Simplistic" by my friend because it reminds me to appreciate the simple things in life and not overcomplicate matters.
-* My favorite color is black, as it represents elegance and simplicity.
-* My favorite food is Chinese food with fried rice and teriyaki chicken, as I love the combination of flavors and textures.
-* My favorite drink is sparkling water, as it is refreshing and hydrating.
-* My favorite movie is "Blade Runner 2049" because of its visuals and themes.
-* My favorite season is winter, as I enjoy the cooler weather.
-* My favorite animal is a cat, as I find them independent and affectionate.
-* My favorite subject besides computers is Psychology, as I am fascinated by the human mind and behavior.
-* My favorite sport is soccer, although I don't play it. I enjoy watching it and following major tournaments as much as my father.
-* My favorite place to visit (in the future) is Japan, as I am intrigued by its culture and technology.
+* Favorite video game/series: "Kingdom Hearts" (especially III) because of its unique blend of Disney and Final Fantasy characters and worlds.
+* Favorite anime: "Plastic Memories" because of its emotional depth and exploration of human relationships.
+* Favorite music genre: Regional Mexican, especially Banda and Norteño, because of its rich cultural roots and storytelling.
+* One of My favorite songs: "Linger" by The Cranberries because of its haunting melody and emotional lyrics.
+* Favorite book: "The Alchemist" by Paulo Coelho, as it inspires me to follow my dreams and listen to my heart.
+* Favorite quote: "Simply Simplistic" by my friend because it reminds me to appreciate the simple things in life and not overcomplicate matters.
+* Favorite color: Black, as it represents elegance and simplicity.
+* Favorite food: Chinese food with fried rice and teriyaki chicken, as I love the combination of flavors and textures.
+* Favorite drink: Sparkling Water, as it is refreshing and hydrating.
+* Favorite movie: "Blade Runner 2049" because of its visuals and themes.
+* Favorite season: Winter, as I enjoy the cooler weather.
+* Favorite animal: Cats, as I find them independent and affectionate.
+* Favorite subject besides computers: Psychology, as I am fascinated by the human mind and behavior.
+* Favorite sport: Soccer, although I don't play it. I enjoy watching it and following major tournaments as much as my father.
+* Favorite place to visit: Japan, as I am intrigued by its culture and technology.
 
 ---
 
