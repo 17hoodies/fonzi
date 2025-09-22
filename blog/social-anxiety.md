@@ -2,7 +2,7 @@
 layout: default
 title: Social Anxiety
 ---
-### <center>Written on December 10, 2024</center>
+### <center>Written on December 9, 2024</center>
 
 # <center>Social Anxiety &#128156;</center>  
 I have had social anxiety my entire life. I mean as a kid, it was like I was always called shy; and now I am an adult, you are expected to just "grow out of it."
