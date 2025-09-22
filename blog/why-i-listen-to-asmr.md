@@ -12,5 +12,5 @@ No wonder I love stuff like this so much for 2 years now.
 
 ![Picture Name](https://images.guns.lol/NUF8D.jpg)
 
-[Go back to index](./blog-index.md)
-[Or the website](https://17hoodies.github.io/fonzi/index.html)
+[Go back to index](./blog-index.md)  
+[Or the website](https://17hoodies.github.io/fonzi/index.html)  
