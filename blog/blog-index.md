@@ -37,3 +37,4 @@ description: View all blog posts here
 ## [My School Psychologist](./school-psychologist.md) - *Written on September 11, 2025*
 ## [Tolerance](./tolerance.md) - *Written on September 16, 2025*
 ## [Vibe Room](./vibe-room.md) - *Written on September 22, 2025*
+## [Ambient Music on YouTube](./ambient-youtube.md) - *Written on September 22, 2025*
