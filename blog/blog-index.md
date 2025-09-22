@@ -3,6 +3,8 @@ layout: default
 title: Blog Index
 description: View all blog posts here
 ---
+# Everything here is from oldest to newest.  
+
 ## [You Need to Touch Grass](./you-need-to-touch-grass.md) - *Written on March 5, 2024*
 ## [My Autism](./my-autism.md) - *Recorded on April 6, 2024*
 ## [My High School Experience](./my-high-school-experience.md) - *Written on April 19, 2024*
