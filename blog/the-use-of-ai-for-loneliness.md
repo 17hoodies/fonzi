@@ -15,5 +15,5 @@ I am not afraid of AI for its capabilities and constant growth, I fear our misus
 
 ![Picture Name](https://images.guns.lol/k7sjZ.png)
 
-[Go back to index](./blog-index.md)
-[Or the website](https://17hoodies.github.io/fonzi/index.html)
+[Go back to index](./blog-index.md)  
+[Or the website](https://17hoodies.github.io/fonzi/index.html)  
