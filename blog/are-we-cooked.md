@@ -22,5 +22,5 @@ Overall, it is hard to deny that these videos and this style of content can be g
 
 ![Get out of my head!](https://images.guns.lol/rnUlh.jpg)
 
-[Go back to index](./blog-index.md)
-[Or the website](https://17hoodies.github.io/fonzi/index.html)
+[Go back to index](./blog-index.md)  
+[Or the website](https://17hoodies.github.io/fonzi/index.html)  
