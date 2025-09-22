@@ -14,7 +14,7 @@ Remember people: Progress is not linear. Do not be disheartened if you are tryin
 But I believe in you, and so in myself.
 So keep going and make the world proud. 
 
-![Neuro Angel](https://images.guns.lol/tXaHv.jpg)  
+![Neuro Angel](./social-anxiety.jpg)  
 
 [Go back to index](./blog-index.md)  
 [Or the website](https://17hoodies.github.io/fonzi/index.html)  
