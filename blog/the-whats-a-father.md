@@ -2,9 +2,9 @@
 layout: default
 title: 
 ---
-### <center>Written on Date</center>
+### <center>Written on February 6, 2025</center>
 
-# <center> Title </center>  
+# <center> The "What's a Father?" </center>  
 
 ![Message from Management](https://images.guns.lol/dRSm0.jpg)  
 
