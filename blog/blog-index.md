@@ -11,3 +11,4 @@ description: View all blog posts here
 ## [How many people you meet in life?](./how-many-people-you-meet.md) - *Written on January 24, 2025*  
 ## [The "What's a Father?"](./the-whats-a-father.md) - *Written on February 6, 2025*
 ## [fonzi update on issues](./fonzi-update-on-issues.md) - *Written on February 14, 2025*
+## [Just a Thought on AI](./just-a-thought-on-ai.md) - *Written on March 4, 2025*
