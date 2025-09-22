@@ -7,7 +7,7 @@ title: My autism
 # <center> My autism </center>  
 
 <audio controls>
-  <source src="https://17hoodies.github.io/fonzi/assets/audio/my-autism.mp3" type="audio/mpeg">
+  <source src="https://17hoodies.github.io/fonzi/blog/my-autism.mp3" type="audio/mpeg">
 </audio>
 
 [Go back to index](./blog-index.md)  
