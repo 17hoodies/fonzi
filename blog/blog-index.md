@@ -8,10 +8,16 @@ description: View all blog posts here
 ## [You Need to Touch Grass](./you-need-to-touch-grass.md) - *Written on March 5, 2024*
 ## [My Autism](./my-autism.md) - *Recorded on April 6, 2024*
 ## [My High School Experience](./my-high-school-experience.md) - *Written on April 19, 2024*
+## [KinitoPET Ending](./kinitopet.md) - *Written on April 23, 2024*
 ## [Men's Mental Health Month](./mens-mental-health-month.md) - *Written on June 9, 2025*
+## [My Graduation](./graduation.md) - *Written on June 12, 2024*
 ## [Are We Cooked?](./are-we-cooked.md) - *Written on September 5, 2024*
-## [Social Anxiety](./social-anxiety.md) - *Written on December 10, 2024*
+## [Why Kids and Adults Wish For Different Ages](./kids-adults.md) - *Written on November 16, 2024*
+## [What is Sonder?](./sonder.md) - *Written on November 21, 2024*
+## [Social Anxiety](./social-anxiety.md) - *Written on December 9, 2024*
+## [Is Anxiety Hard?](./anxiety.md) - *Written on December 15, 2024*
 ## [New Years Resolution](./new-years-resolution.md) - *Written on December 31, 2024*
+## [2025 at 19 years](./2025-at-19-years-old.md) - *Written on January 2, 2025*
 ## [The use of AI for loneliness](./the-use-of-ai-for-loneliness.md) - *Written on January 7, 2025*
 ## [Why I listen to ASMR](./why-i-listen-to-asmr.md) - *Written on January 21, 2025*
 ## [How many people you meet in life?](./how-many-people-you-meet.md) - *Written on January 24, 2025*  
@@ -30,3 +36,4 @@ description: View all blog posts here
 ## [Charlie Kirk](./charlie-kirk.md) - *Written on September 10, 2025*
 ## [My School Psychologist](./school-psychologist.md) - *Written on September 11, 2025*
 ## [Tolerance](./tolerance.md) - *Written on September 16, 2025*
+## [Vibe Room](./vibe-room.md) - *Written on September 22, 2025*
