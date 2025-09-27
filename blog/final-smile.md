@@ -15,7 +15,8 @@ It reminds me much of my grandfather, who's up in heaven with God. I didn't have
 A thing or 2 that describes who I am as a person is that I hold close what I love. Because at the end of the day, it's all about caring. 
 
 May God protect him, me, and my loved ones, always. 
-Fly high. 
+Fly high.  
+#### [Link to video](https://youtube.com/watch?v=iL87Rx80Pj4)  
 
 [Go back to index](./blog-index.md)  
 [Or the website](https://17hoodies.github.io/fonzi/index.html)  
