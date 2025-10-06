@@ -6,6 +6,9 @@ title: Are We Cooked
 
 # <center> Are We Cooked? </center>  
 
+![Get out of my head!](https://images.guns.lol/rnUlh.jpg)  
+
+
 Whether you have been on TikTok, Instagram, Reddit, or anywhere on the internet in the last few years, you have certainly come across what can only be described as “Brainrot.”  
 
 *Brain rot is a term used to describe internet content of low quality or value, or the negative effects (psychological, cognitive, etc.) caused by it. It implies the spending of excessive amounts of time spent online, with deterioration in cognitive functioning, attention span and intellect.*  
@@ -19,8 +22,6 @@ Beyond these obvious examples, we are also rotting our brains in a more literal 
 A good analogy is our use of libraries. Most people in the Western world have access to libraries filled with vast amounts of information. However, if someone were to simply sit in a library and glance over each book without diving deep, they would not truly learn anything. The same logic applies to watching fifteen second “educational” content on TikTok and then simply swiping to the next video and repeating that process until your attention is needed elsewhere.  
 
 Overall, it is hard to deny that these videos and this style of content can be genuinely fun at times. But it is crucial to acknowledge the reality: this content is metaphorically smoothing your brain as you endlessly scroll.  
-
-![Get out of my head!](https://images.guns.lol/rnUlh.jpg)
 
 [Go back to index](./blog-index.md)  
 [Or the website](https://17hoodies.github.io/fonzi/index.html)  
