@@ -39,3 +39,4 @@ description: View all blog posts here
 ## [Vibe Room](./vibe-room.md) - *Written on September 22, 2025*
 ## [Ambient Music on YouTube](./ambient-youtube.md) - *Written on September 22, 2025*
 ## [Final Smile](./final-smile.md) - *Written on September 26, 2025*
+## [Exceptions on AI](./how-i-perceive-ai.md) - *Published on October 4, 2025*
