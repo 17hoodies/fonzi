@@ -7,7 +7,6 @@ title: fonzi
 
 ## [<ins>Find me online here!</ins>](https://guns.lol/fonzifanz)  
 
-![icon](./NeuroHeart.png)
 ### About Me!
 * Name/Nickname: Alonzo (fonzi)
 * Pronouns: He/Him
