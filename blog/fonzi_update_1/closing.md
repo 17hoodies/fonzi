@@ -10,9 +10,9 @@ This all in all sounds like I’m taking a hiatus (sort of) and yes it is. I wil
 
 -Alonzo (fonzi)  
 
-## <center>End of document.
-## [Go to the beginning](./introduction.md)
-## [Or to the previous page](./change-and-come.md)
+## End of document.
+## [Go to the beginning](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/introduction.html)
+## [Or to the previous page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/change-and-come.html)
 
-[Go back to index](./blog-index.md)  
+[Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
 [Or the website](https://17hoodies.github.io/fonzi/index.html)  

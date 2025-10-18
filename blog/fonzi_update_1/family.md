@@ -19,7 +19,7 @@ Speaking about my parents, my parents are getting old. Seeing my parents getting
 
 But yes, I love how far my family has come to where my siblings are doing their best at doing what they want to do next for their life.  
 
-## <center>[Go to the next page](./myself.md)  
-## <center>[Or to the previous page](./school.md)
-[Go back to index](./blog-index.md)  
+## [Go to the next page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/myself.html)  
+## [Or to the previous page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/school.html)
+[Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
 [Or the website](https://17hoodies.github.io/fonzi/index.html)  

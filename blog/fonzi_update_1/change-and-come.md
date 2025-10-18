@@ -17,8 +17,8 @@ And for what's coming?
 
 Those that are listed will be coming in the future like I said by the end of the year. This won't affect the current time, however. It comes so sudden because given the current situation my family is facing, I will have to set aside time for those matters. Those are the things I will be doing soon as my time as a young adult will be up and I will have to be an actual adult at that point.  
 
-## <center>[Go to the next page](./closing.md)  
-## <center>[Or to the previous page](./myself.md)  
+## [Go to the next page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/closing.html)  
+## [Or to the previous page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/myself.html)  
 
-[Go back to index](./blog-index.md)  
+[Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
 [Or the website](https://17hoodies.github.io/fonzi/index.html)  
