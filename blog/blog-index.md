@@ -3,10 +3,11 @@ layout: default
 title: Blog Index
 description: View all blog posts here
 ---
-# Everything here is from oldest to newest.  
+# Everything here is from oldest to newest  
+
+# [Urgent Update, Latest Post](/fonzi_update_1/introduction.md) - *Written on October 10, 2025*  
 
 ## [You Need to Touch Grass](./you-need-to-touch-grass.md) - *Written on March 5, 2024*
-## [My Autism](./my-autism.md) - *Recorded on April 6, 2024*
 ## [My High School Experience](./my-high-school-experience.md) - *Written on April 19, 2024*
 ## [KinitoPET Ending](./kinitopet.md) - *Written on April 23, 2024*
 ## [Men's Mental Health Month](./mens-mental-health-month.md) - *Written on June 9, 2025*
@@ -40,3 +41,4 @@ description: View all blog posts here
 ## [Ambient Music on YouTube](./ambient-youtube.md) - *Written on September 22, 2025*
 ## [Final Smile](./final-smile.md) - *Written on September 26, 2025*
 ## [Exceptions on AI](./how-i-perceive-ai.md) - *Published on October 4, 2025*
+## [fonzi update 1](/fonzi_update_1/introduction.md) - *Written on October 10, 2025*

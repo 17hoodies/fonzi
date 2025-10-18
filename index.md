@@ -3,8 +3,10 @@ layout: default
 title: fonzi
 ---
 # fonzi  
-### [<ins>Read my blog posts here!</ins>](/blog/blog-index.md)  
 
+# [Urgent Update, Latest Post](/blog/fonzi_update_1/introduction.md) - *Written on October 10, 2025*  
+
+### [<ins>Read my blog posts here!</ins>](/blog/blog-index.md)  
 ## [<ins>Find me online here!</ins>](https://guns.lol/fonzifanz)  
 
 ### About Me!
