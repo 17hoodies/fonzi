@@ -2,12 +2,10 @@
 layout: default
 title: fonzi
 ---
-# fonzi  
-
 # [Latest Post / fonzi update 2](/blog/fonzi-update-nov-2025.md) - *Written on November 14, 2025*  
 
-### [<ins>Read my blog posts here!</ins>](/blog/blog-index.md)  
-## [<ins>Find me online here!</ins>](https://guns.lol/fonzifanz)  
+## [Read my blog posts here!](/blog/blog-index.md)  
+## [Find me online here!](https://guns.lol/fonzifanz)  
 
 ### About Me!
 * Name/Nickname: Alonzo (fonzi)
