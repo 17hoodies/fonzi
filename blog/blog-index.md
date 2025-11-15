@@ -42,3 +42,4 @@ description: View all blog posts here
 ## [Final Smile](./final-smile.md) - *Written on September 26, 2025*
 ## [Exceptions on AI](./how-i-perceive-ai.md) - *Published on October 4, 2025*
 ## [fonzi update 1](/fonzi_update_1/introduction.md) - *Written on October 10, 2025*
+## [fonzi update - November 2025](./fonzi-update-nov-2025.md) - *Written on November 14, 2025*

@@ -4,7 +4,7 @@ title: fonzi
 ---
 # fonzi  
 
-# [Urgent Update, Latest Post](/blog/fonzi_update_1/introduction.md) - *Written on October 10, 2025*  
+# [Latest Post / fonzi update 2](/blog/fonzi-update-nov-2025.md) - *Written on November 14, 2025*  
 
 ### [<ins>Read my blog posts here!</ins>](/blog/blog-index.md)  
 ## [<ins>Find me online here!</ins>](https://guns.lol/fonzifanz)  
