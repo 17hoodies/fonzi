@@ -6,7 +6,7 @@ title: fonzi
 
 ## [Read my blog posts here!](/blog/blog-index.md)  
 ## [Find me online here!](https://guns.lol/fonzifanz)  
-
+---
 ### About Me!
 * Name/Nickname: Alonzo (fonzi)
 * Pronouns: He/Him
