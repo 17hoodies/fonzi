@@ -5,7 +5,7 @@ description: View all blog posts here
 ---
 # Everything here is from oldest to newest  
 
-# [Urgent Update, Latest Post](/fonzi_update_1/introduction.md) - *Written on October 10, 2025*  
+# [Latest Post / fonzi update 2](/blog/fonzi-update-nov-2025.md) - *Written on November 14, 2025*  
 
 ## [You Need to Touch Grass](./you-need-to-touch-grass.md) - *Written on March 5, 2024*
 ## [My High School Experience](./my-high-school-experience.md) - *Written on April 19, 2024*
