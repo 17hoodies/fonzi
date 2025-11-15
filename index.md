@@ -1,5 +1,6 @@
 ---
 layout: default
+title: fonzi
 ---
 # [Latest Post / fonzi update 2](/blog/fonzi-update-nov-2025.md) - *Written on November 14, 2025*  
 
