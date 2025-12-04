@@ -11,4 +11,4 @@ There's peace and understanding within mastering your own space. I've learned th
 The quiet ones understand and choose peace. And I choose me.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

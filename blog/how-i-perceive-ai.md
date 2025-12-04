@@ -16,4 +16,4 @@ AI has come in a long way, and what we can do is to learn how to use it without 
 ### [Link to post here](https://www.reddit.com/r/NeuroSama/comments/1nk3w5s/did_you_make_exception_for_neuro_because_you_like/)  
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

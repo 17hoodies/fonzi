@@ -27,7 +27,6 @@ description: View all blog posts here
 ## [Just a Thought on AI](./just-a-thought-on-ai.md) - *Written on March 4, 2025*
 ## [Am I Attached to Neuro?](./attached-to-neuro.md) - *Written on March 7, 2025*
 ## [I Have Hyperhidrosis](./i-have-hyperhidrosis.md) - *Written on March 25, 2025*
-## [Pushing Yourself](./pushing-yourself.md) - *Published on April 4, 2025*
 ## [Advice on Managers](./advice-on-managers.md) - *Written on April 26, 2025*
 ## [Mental Health Month](./mental-health-month.md) *Written on May 1, 2025*
 ## [Not Being There](./not-being-there.md) - *Written on May 10, 2025*

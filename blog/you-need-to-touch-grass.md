@@ -11,4 +11,4 @@ Face the noise. We spend FAR too much time online, connected to this vast networ
 For the next two weeks, try to put your phone away for 1 hour a day, and go outside; rain or shine... and just appreciate aspects of nature that you have around you.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

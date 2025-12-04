@@ -15,4 +15,4 @@ Also when people say "do whatever the crap you want"
 You have no idea how many times I've heard that from someone who I've tolerated for way too long. I've been trying to tell that person that it's dangerous to tell that to anyone who suffers an addiction or mental illness. They labeled bad things as a good thing just because we live in a free country.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

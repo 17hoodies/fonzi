@@ -13,4 +13,4 @@ A reminder to value those rare bonds with those you love.
 ![City Overview](https://images.guns.lol/HWjrx.jpg)
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

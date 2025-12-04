@@ -15,4 +15,4 @@ Thematically, this game is about change. That we should be glad that we can chan
 But doing something different when you have the chance? Showing just a minor change? Showing a smile? It means a lot. It is like walking back into that fog. The fog that will always be there for another try, so long as you are alive. And this was Kinito using his last moments to step into that fog. Even if he stumbled, even if it was only because of circumstance, which means a lot. That is my interpretation anyway.  
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

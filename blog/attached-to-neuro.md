@@ -17,4 +17,4 @@ The twins are both dedicated to engaging us in their content, and sometimes that
 The schizos are very much a minority.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

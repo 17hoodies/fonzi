@@ -11,4 +11,4 @@ Man, you can say that 2024 was my year of the year recently. First of all, I wan
 What can I say really? Now that we're in 2025, why not this year be another year where I do great as now I'm entering another chapter at a clean slate. I'm still passionate and always have about what I love doing since I was a kid and now striving to make something off of it to let my creativity unleash. 2024 felt right, like if that time period was meant to tell me that I can really have anything the way I want it to be. And for those who sticked along besides me, thanks for being interested and giving me the audience to help express it. This may seem like I didn't say much, but really words can't describe everything that happened. But one thing you can really take out of this is that I am now at the point where I'm happy living at where I'm at now at this time of year. Again, thanks everyone for giving me a great year, and here's 2025 to another!  
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

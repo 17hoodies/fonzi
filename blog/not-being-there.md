@@ -13,4 +13,4 @@ If I have to be honest and up front, I feel like whenever I hear stuff about thi
 But man, stuff like this is like the worst thing to see as a person who deeply cares for others.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

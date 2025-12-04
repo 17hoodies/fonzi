@@ -13,4 +13,4 @@ As somebody who’s been through similar things their child is currently experie
 This phenomenon proves that the best way to live is to be mindful and appreciative of the current moment because one day it’ll be nothing but a memory.  
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

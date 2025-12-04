@@ -24,4 +24,4 @@ A good analogy is our use of libraries. Most people in the Western world have ac
 Overall, it is hard to deny that these videos and this style of content can be genuinely fun at times. But it is crucial to acknowledge the reality: this content is metaphorically smoothing your brain as you endlessly scroll.  
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

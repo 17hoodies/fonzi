@@ -19,4 +19,4 @@ Having to grow up too fast and having those little moments where my inner child 
 God forbid a traumatized person acts traumatized and regresses.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

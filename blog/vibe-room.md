@@ -17,4 +17,4 @@ But hey, I guess this is one of the good things that came to the end. I don't bl
 Rest in Peace to Vibe Room by raiiningdayss.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

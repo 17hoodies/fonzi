@@ -19,4 +19,4 @@ At the time of writing, I am now a senior after all those years. These are the l
 So, my overall high school experience was not as difficult as I expected it, 4 years ago. I was able to do anything I wanted to do thanks to my family, friends, my wonderful teachers, and others who supported me along my journey. With this, I feel like I took an opportunity and completed the mission at the end. What I learned throughout high school is that life is based off decisions you make. It’s not about what you dealt; it’s about how you deal with it. In every situation, you must always keep your eyes and mind open because your decisions are what pave your destiny. Don’t let anyone get to you, what matters is what you want to achieve and making the right decisions. 
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

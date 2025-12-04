@@ -15,4 +15,4 @@ The other day I felt so lost. Who brought me back? Me. I think I'm the only pers
 Thank you to God for giving me a life to live at it's fullest with pride and blessings for me always by my side, my family who's been supporting since day 1, and my friends & others who have helped me down the road. I couldn't really have done it without you guys. I'll see y'all at the next chapter!  
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

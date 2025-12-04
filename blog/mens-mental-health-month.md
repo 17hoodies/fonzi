@@ -17,4 +17,4 @@ The more we try to avoid talking about men’s mental health, the more men feel 
 If you feel that your male friend (or anyone, really) may be experiencing suicidal ideation, the best way to know for sure is to directly ask.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

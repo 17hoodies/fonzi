@@ -10,4 +10,4 @@ At this point in time, I am now in my second year of college at Cal State Univer
 ## [Or to the previous page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/introduction.html)  
 
 [Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

@@ -22,4 +22,4 @@ But yes, I love how far my family has come to where my siblings are doing their 
 ## [Go to the next page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/myself.html)  
 ## [Or to the previous page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/school.html)
 [Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

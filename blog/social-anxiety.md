@@ -17,4 +17,4 @@ So keep going and make the world proud.
 ![Neuro Angel](./social-anxiety.jpg)  
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

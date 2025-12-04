@@ -19,4 +19,4 @@ I'll never forget you, and I'll always appreciate you for what impact you had on
 I'll be good, I promise.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

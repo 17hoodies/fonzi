@@ -17,4 +17,4 @@ Sonder is humbling. It reminds you that your life, no matter how consuming it is
 And perhaps that's what makes it so hauntingly beautiful- the quiet poetry of existing side by side, each of us a universe, orbiting in the vast expanse of one another's periphery.  
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

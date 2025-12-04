@@ -21,4 +21,4 @@ Those that are listed will be coming in the future like I said by the end of the
 ## [Or to the previous page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/myself.html)  
 
 [Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

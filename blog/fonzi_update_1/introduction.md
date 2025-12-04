@@ -21,4 +21,4 @@ This document will be split into three different sections, covering all what is 
 ## [Go to next page.](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/school.html)
 
 [Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

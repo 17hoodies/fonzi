@@ -19,4 +19,4 @@ Also, I've never been in love with anyone now that I'm 19. But honestly, I just 
 I hope it happens one day.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

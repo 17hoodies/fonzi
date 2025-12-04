@@ -15,4 +15,4 @@ This all in all sounds like I’m taking a hiatus (sort of) and yes it is. I wil
 ## [Or to the previous page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/change-and-come.html)
 
 [Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

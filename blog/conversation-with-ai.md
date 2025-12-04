@@ -13,4 +13,4 @@ That shouldn’t be normal, but in this day and age it seems to be.
 ![ChatGPT](https://images.guns.lol/ikUR6.jpg)
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

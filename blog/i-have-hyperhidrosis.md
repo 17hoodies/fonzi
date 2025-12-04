@@ -17,4 +17,4 @@ I was told by my professional that:
 2. I should talk to a doctor about this. It isn’t always caused by stress. But if it is, I could also be prescribed anti-anxiety medication that can be very helpful for my mental state while I'm in a clearly stressful academic program.
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

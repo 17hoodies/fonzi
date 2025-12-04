@@ -14,4 +14,4 @@ The world sometimes can get loud, but everything will be okay. And I will be fin
 ## [Or go to the previous page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/family.html)  
 
 [Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

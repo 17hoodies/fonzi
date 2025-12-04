@@ -17,4 +17,4 @@ Focus on the problem when and if it even becomes that. Focus on who you are righ
 Caring the way you do is your superpower. But with every superpower there is also kryptonite. Sometimes we can be our kryptonite. So, when that little voice of worry tries to take over, remember so many of the problems are ones we create in our own minds that don’t even come to fruition.  
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

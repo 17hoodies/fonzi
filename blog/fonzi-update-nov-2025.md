@@ -31,4 +31,4 @@ And to those who needs to hear this, you got this, okay? You're so much stronger
 ![NeuroHeart](https://images.guns.lol/25aa02135241af0c08c88835fb24e50831d27718/Vo30FM.png)
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

@@ -19,4 +19,4 @@ Fly high.
 #### [Link to video](https://youtube.com/watch?v=iL87Rx80Pj4)  
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  

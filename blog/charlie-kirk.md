@@ -17,4 +17,4 @@ May God be with him, his wife, his kids, and his family. I really thought today 
 ![Charlie with his family](https://images.guns.lol/FDZQm.jpg)
 
 [Go back to index](./blog-index.md)  
-[Or the website](https://17hoodies.github.io/fonzi/index.html)  
+[Or the website](https://fonzifanz.github.io/)  
