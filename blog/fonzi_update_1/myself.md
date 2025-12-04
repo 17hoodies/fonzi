@@ -10,8 +10,8 @@ If you have not seen me around as much anymore, I am sorry, and it is because I 
 
 The world sometimes can get loud, but everything will be okay. And I will be fine too.  
 
-## [Go to the next page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/change-and-come.html)  
-## [Or go to the previous page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/family.html)  
+## [Go to the next page](https://fonzifanz.github.io/blog/fonzi_update_1/change-and-come.html)  
+## [Or go to the previous page](https://fonzifanz.github.io/blog/fonzi_update_1/family.html)  
 
-[Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
+[Go back to index](https://fonzifanz.github.io/blog/blog-index.html)  
 [Or the website](https://fonzifanz.github.io/)  

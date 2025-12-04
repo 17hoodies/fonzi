@@ -7,8 +7,6 @@ title: Exceptions on AI
 
 # <center> Exceptions on AI </center>  
 
-<img src="./how-i-perceive-ai.jpg" alt="How I Perceive AI" width="325" height="630" />  
-
 This is from the r/NeuroSama subreddit  
 I will say that as much as I like watching Neuro, I will treat the same for other creators who use AI for a passion like creating entertainment, not for replacing the talent of others.  
 As I'm studying computers, I am learning the use of AI and how it works through models. As I learn more every day about it, I have a good understanding on what it's useful and not (in a way where it replaces the existing job of a human can do)  

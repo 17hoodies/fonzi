@@ -11,8 +11,8 @@ This all in all sounds like I’m taking a hiatus (sort of) and yes it is. I wil
 -Alonzo (fonzi)  
 
 ## End of document.
-## [Go to the beginning](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/introduction.html)
-## [Or to the previous page](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/change-and-come.html)
+## [Go to the beginning](https://fonzifanz.github.io/blog/fonzi_update_1/introduction.html)
+## [Or to the previous page](https://fonzifanz.github.io/blog/fonzi_update_1/change-and-come.html)
 
-[Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
+[Go back to index](https://fonzifanz.github.io/blog/blog-index.html)  
 [Or the website](https://fonzifanz.github.io/)  

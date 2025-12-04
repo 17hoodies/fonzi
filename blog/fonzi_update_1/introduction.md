@@ -18,7 +18,7 @@ I know it has been a while since I came across giving my updates on myself, but 
 
 This document will be split into three different sections, covering all what is listed above. And this is planned to be published on October 9, 2025, at 8:00PM PST. After it is published, I will be open to feedback and questions you may have. And if you made it this far already, thank you for that. I appreciate everyone whom I know and people who are reading this. Now going on, let us go over with the first topic.  
 
-## [Go to next page.](https://17hoodies.github.io/fonzi/blog/fonzi_update_1/school.html)
+## [Go to next page.](https://fonzifanz.github.io/blog/fonzi_update_1/school.html)
 
-[Go back to index](https://17hoodies.github.io/fonzi/blog/blog-index.html)  
+[Go back to index](https://fonzifanz.github.io/blog/blog-index.html)  
 [Or the website](https://fonzifanz.github.io/)  
