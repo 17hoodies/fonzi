@@ -2,9 +2,9 @@
 layout: default
 title: 
 ---
-### <center>Written on Date</center>
+<h3> Title </h3>
 
-# <center> Title </center>  
+### *Written on Date*
 
 
 
