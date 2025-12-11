@@ -5,7 +5,7 @@ description: View all blog posts here
 ---
 # Everything here is from oldest to newest  
 
-# [Latest Post / fonzi update 2](./fonzi-update-nov-2025.md) - *Written on November 14, 2025*  
+# [Thank You, June 2021](./thank-you-june-2021.md) - *Written on December 10, 2025*  
 
 ## [You Need to Touch Grass](./you-need-to-touch-grass.md) - *Written on March 5, 2024*
 ## [My High School Experience](./my-high-school-experience.md) - *Written on April 19, 2024*
@@ -42,3 +42,4 @@ description: View all blog posts here
 ## [Exceptions on AI](./how-i-perceive-ai.md) - *Published on October 4, 2025*
 ## [fonzi update 1](/fonzi_update_1/introduction.md) - *Written on October 10, 2025*
 ## [fonzi update 2 - November 2025](./fonzi-update-nov-2025.md) - *Written on November 14, 2025*
+## [Thank You, June 2021](./thank-you-june-2021.md) - *Written on November 14, 2025*

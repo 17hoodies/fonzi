@@ -2,7 +2,7 @@
 layout: default
 title: fonzi
 ---
-# [Latest Post / fonzi update 2](/blog/fonzi-update-nov-2025.md) - *Written on November 14, 2025*  
+# [Thank You, June 2021](/blog/thank-you-june-2021.md) - *Written on December 10, 2025*
 
 ## [Read my blog posts here!](/blog/blog-index.md)  
 ## [Find me online here!](https://guns.lol/fonzifanz)  
@@ -11,6 +11,7 @@ title: fonzi
 * Name/Nickname: Alonzo (fonzi)
 * Pronouns: He/Him
 * Birthdate: January 3, 2006
+* Age: 19 years old
 * Location: California, USA
 * Occupation: Student at California State University, studying Computer Technology with a focus on IT.
 * Languages Spoken: English and Spanish (Fluent in English, conversational in Spanish)
